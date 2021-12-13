@@ -1,4 +1,22 @@
 pub struct Weapons
 {
-    
+    Assault_Rifle: String,
+    Assault_Rifle_Time: String,
+    LR_300: String,
+    Semi_Auto_Rifle: String,
+    Semi_Auto_Rifle_Time: String,
+    M39_Rifle: String,
+    M39_Rifle_Time: String,
+    M249_MG: String,
+    M249_MG_Time: String,
+    MP5A4: String,
+    MP5A4_Time: String,
+    Thompson_SMG: String,
+    Thompson_SMG_Time: String,
+    Custom_SMG: String,
+    Custom_SMG_Time: String,
+    Python_Revolver: String,
+    Python_Revolver_Time: String,
+    Semi_Auto_Pistol: String,
+    Semi_Auto_Pistol_Time: String,
 }
